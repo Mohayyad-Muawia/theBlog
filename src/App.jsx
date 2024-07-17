@@ -3,7 +3,7 @@ import BlogDetails from './BlogDetails';
 import Home from './Home'
 import Info from './Info';
 import Nav from './Nav'
-import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import NotFound from './NotFound';
 import Footer from './Footer';
 
